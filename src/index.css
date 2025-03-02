@@ -1,0 +1,14 @@
+@import "tailwindcss";
+/* @tailwind base;
+@tailwind components; */
+
+
+@import url("https://fonts.googleapis.com/css2?family=Railey&display=swap");
+
+:root{
+  --theme-color: #FF4D4D;
+  --logo-font:'Dancing Script', cursive;
+  --heading-font: "Railey", cursive;
+}
+
+

@@ -1,0 +1,4 @@
+.categories{
+    overflow-x: auto;
+    scrollbar-width: none;
+}
